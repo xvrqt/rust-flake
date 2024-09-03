@@ -1,5 +1,5 @@
 [toolchain]
 channel = "nightly"
 profile = "default"
-targets = ["wasm-unknown-unknown"]
+targets = ["wasm32-unknown-unknown"]
 components = ["rust-src"]
